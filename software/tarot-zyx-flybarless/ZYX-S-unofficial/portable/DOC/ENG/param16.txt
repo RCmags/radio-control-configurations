@@ -1,0 +1,5 @@
+<b>Swash RC Deadband</b>
+<p>The deadband of the aileron and elevator sticks
+<p>The RC deadband is to ignore input from sticks that don't return to zero and to remove cross channel stick changes when the sticks are moved to the limit on the two axises. To small a value will make it hard to do single axis maneuvers without a change in the other axis (i.e. a flip ends up rolling left or right during the flip...). Bigger value means that you have to move more rudder stick before anything happens.
+<p>This avoids drifting from stick pots and servo noise.
+<p>Default "40" in all configurations.

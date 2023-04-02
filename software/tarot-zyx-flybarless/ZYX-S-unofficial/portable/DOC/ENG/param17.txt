@@ -1,0 +1,5 @@
+<b>Swash Gyro Deadband</b>
+<p>The deadband of the roll and pitch sensors.
+<p>The Gyro deadband is the value used to ignore small changes coming from the gyro MEMS sensors.
+<p>This avoids drifting from gyro and servo noise. Big number results in poor stability and drift. Too small a number can overwork your servos.
+<p>Default "4" in all configurations.

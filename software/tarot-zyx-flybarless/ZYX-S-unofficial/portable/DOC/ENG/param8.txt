@@ -1,0 +1,2 @@
+<b>Yaw I Gain</b>
+<p>The Integral Gain corresponds to the heading hold gain of a normal gyro. It is used to produce an angular control of the tail. A to high value will result in a bad stopping behavior with a back bouncing tendency. When integral gain is to low, the tail is unstable on heavy pitch inputs and can not hold the position. The integral factor is almost independent on the tail setup of the helicopter. In default settings values are from beginner "25" to extreme "50".

@@ -1,0 +1,5 @@
+<b>Pitch P gain</b>
+<p>Proportional Gain produces an regulative action on the swash plate which is proportional to the measured rate error on the swash plate and thus proportional gain makes the elevator rate follow the rate commanded on the swash sticks. Too high proportional gain can cause a oscillating tendency on elevator in fast forward flight and also a bad stopping behavior on elevator rate changes. Also if this is too high, instability and hunting will tend to occur.
+<p>Default "80" in all configurations.
+<p>With fast cyclic servos this can be increased.
+<p>("Roll P gain" and "Pitch P gain" values should be always the same.)

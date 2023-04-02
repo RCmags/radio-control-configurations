@@ -1,0 +1,4 @@
+<b>Acceleration</b>
+<p>Acceleration of the roll and pitch motion.
+<p>Roll and pitch acceleration to the desired speed. I don't know what occurs if this is too low or high?
+<p>Default "125" in all configurations.

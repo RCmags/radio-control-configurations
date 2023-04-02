@@ -1,0 +1,5 @@
+<b>Pitch I gain</b>
+<p>Integral gain is responsible that the helicopter keeps the direction under all circumstances. When wind forces the helicopter out of its direction, the integral gain is correcting this. Fast forward flight is also stabilized by the integral gain. Integral gain must be setup so that the helicopter stable during load changes on swash plate. When integral gain is set to high, the stopping behavior on swash plate is influenced negatively: the helicopter gets a tendency to slowly drift back after a hard stop. A to high integral gain has also bad influence on fast forward flight: The elevator control feeling becomes doughy and in extreme situations even slow oscillations (approx. 1 Hz) can appear.
+<p>With fast cyclic servos integral gain can be increased after the first flights in order to get more flight stability.
+<p>Default settings values are from beginner "120" to extreme "60".
+<p>("Roll I gain" and "Pitch I gain" values should be always the same.)

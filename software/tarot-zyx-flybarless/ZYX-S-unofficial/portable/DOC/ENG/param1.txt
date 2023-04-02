@@ -1,0 +1,5 @@
+<b>Roll P gain</b> 
+<p>Proportional Gain produces an regulative action on the swash plate which is proportional to the measured rate error on the swash plate and thus  proportional gain makes the aileron rate follow the rate commanded on the swash sticks. Abrupt stops of flips should be free of high frequency  shaking. If this is not the case the proportional gain is to high. Also if this is too high, instability and hunting will tend to occur.
+<p>Default "80" in all configurations.
+<p>With fast cyclic servos this can be increased.
+<p>("Roll P gain" and "Pitch P gain" values should be always the same.)

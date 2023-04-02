@@ -1,0 +1,4 @@
+<b>Tail compensate Colllective to Tail</b>
+<p>The ratio of collective pitch mixing to tail pitch.
+<p>Compensation factor for tail pitch when using high positive and negative collective pitch.
+<p>Default "0" in all configurations.

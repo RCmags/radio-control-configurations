@@ -1,0 +1,4 @@
+<b>Tail Compensate Cyclic to Tail</b>
+<p>The ratio of cyclic pitch mixing to tail pitch.
+<p>Compensation factor for tail when using cyclic (doing tight rolls and loops).
+<p>Default "0" in all configurations.

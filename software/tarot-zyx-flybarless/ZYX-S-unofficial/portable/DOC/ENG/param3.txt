@@ -1,0 +1,4 @@
+<b>Roll D gain</b>
+<p>The Derivative (D) Gain effects the helicopters behavior after a control input is suddenly released. This Gain allows attenuation of the helicopter body tremor which is generated when the helicopter has been stopped by a sudden movement of the control stick. In the situation where the P Gain and I Gain have been made too large, the helicopter body may oscillate if the sticks are operated by flicking them with your fingers. By increasing the D Gain, the oscillation in the above situation will be reduced, and it will be possible to further increase the I Gain. Care will be required, because if the D Gain is too large, small oscillations may continue, or the vibration of the helicopter may cause sudden and severe hunting to occur.
+<p>Default settings values are from beginner to hardcore "0" and in extreme "30".
+<p>("Roll D gain" and "Pitch D gain" values should be always the same.)

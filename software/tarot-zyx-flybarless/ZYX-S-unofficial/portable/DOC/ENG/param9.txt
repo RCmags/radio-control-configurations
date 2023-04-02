@@ -1,0 +1,3 @@
+<b>Yaw D Gain</b>
+<p>Stop gain. During a tail stop (from piros) it will be helpful to use a bit more tail gain to get a crispy stop.
+<p>Default settings values are from beginner to hardcore "0" and in extreme "30".

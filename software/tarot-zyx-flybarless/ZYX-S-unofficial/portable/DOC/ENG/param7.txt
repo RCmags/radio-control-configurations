@@ -1,0 +1,2 @@
+<b>Yaw P Gain</b>
+<p>Proportional Gain generates a steering signal on the tail servo which is proportional to the rate error. The higher proportional gain is, the more direct the tail follows the stick. To setup proportional gain one should increase it until the tail has a high frequency shaking tendency and then decrease it. The default value is "80". The proportional gain depends strongly on the individual tail setup. Especially at larger helicopters with low tail power it can be increased by a factor of two.

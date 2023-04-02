@@ -1,0 +1,4 @@
+<b>Deceleration</b>
+<p>Deceleration of the roll and pitch motion.
+<p>Roll and pitch deceleration to the desired speed or stop. I don't know what occurs if this is too low or high?
+<p>Default settings values are from beginner "40" to extreme "55".

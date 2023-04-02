@@ -1,0 +1,1 @@
+If you want to fly a quadrotor aircraft,you can open the "+4" or "X4" file in ZYX PC software,and transmit to ZYX-S.

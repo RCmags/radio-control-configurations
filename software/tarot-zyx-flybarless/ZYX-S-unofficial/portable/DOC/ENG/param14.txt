@@ -1,0 +1,6 @@
+<b>Deceleration L</b>
+<p>Deceleration of the left pirouette.
+<p>If the helicopter tail does not decelerate as fast as the gyro anticipates it overshoots the intended stop position, then the gyro brings the tail back. The end result is bouncy stop. Since the main rotor torque assist the stops in one direction, bounce is often observed in the other direction only. To eliminate bounce you can either improve the mechanical setup to keep the gyro happy in line with default gyro configuration tailored for high performance 3D helis. Or, lower the gyro's deceleration rate to match the particular heli.
+<p>However note that stops may start to feel very soft if the deceleration is dropped too far.
+<p>Also if this value is too high it might cause stripping of tail TT gears.
+<p>Default settings values are from beginner "20" to extreme "35".

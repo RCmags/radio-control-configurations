@@ -1,0 +1,4 @@
+<b>Acceleration R</b>
+<p>Acceleration of the right pirouette
+<p>This limits the servo throw change per calculation frame on tail servo. For example having 3D helis with super tail rotors you will be able to get high accelerations without stall effects or bouncing on a stop. With a scaler and a weak tail it will have stall and overshoot with too much throw change each calculation cycle. So it should be lowered until we get a stop without bouncing. It will stop more smooth but without overloading the tail. 
+<p>Also if this value is too high it might cause stripping of tail TT gears.
