@@ -15,11 +15,11 @@ Program and driver links:
 
 Program and driver links:
 
-	1. Original software:   
+1. Original software:   
 	
 	http://www.tarotrc.com/Download/Detail.aspx?Lang=en&Id=dd6d1d3a-6f70-4f8e-a978-ee873fe4d354
 
-	2. Custom Software:  
+2. Custom Software:  
 
 	fbl.net.nz/download/14
 		
